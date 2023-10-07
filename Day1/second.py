@@ -1,0 +1,1 @@
+print("This is Data Science mode of programming")
